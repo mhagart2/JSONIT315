@@ -1,0 +1,15 @@
+{
+"TvShow: 
+[
+  {"ShowName":"Criminal Minds", "ShowDescription":"The Behavioral Analysis Unit, an elite FBI squad, takes down criminals through profiling.", "Genre":"Crime", "ShowImage":"criminal.jpg"},
+  
+  {"ShowName":"The Witcher", "ShowDescription":"Geralt of Rivia, a mutilated monster hunter, adventures on a quest of destiny and to conquer not only beasts but humanity.", "Genre":"Fantasy", "ShowImage":"witcher.jpg"},
+  
+  {"ShowName":"Grey's Anatomy", "ShowDescription":"Seattle Mercy West Hospital's doctors fight disease, young love, and for the title of Head of Surgery.", "Genre":"Romantic", "ShowImage":"greys.jpg"},
+
+  {"ShowName":"Supernatural", "ShowDescription":"Brothers band together to find supernatural creatures across the country and try to save the world from its end.", "Genre":"Thriller", "ShowImage":"supernatural.jpg"},
+
+  {"ShowName":"Stranger Things", "ShowDescription":"A young group of kids take on the suprtnatural and government operatives in a search for answers about their friend.", "Genre":"Horror", "ShowImage":"stranger.jpg"},
+]
+  "Status": "OK"
+}
